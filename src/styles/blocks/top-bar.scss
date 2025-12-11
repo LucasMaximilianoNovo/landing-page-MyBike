@@ -18,6 +18,12 @@
     @include on-tablet {
       gap: 32px;
     }
+
+    &--phones {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
   }
 
   &__logo {

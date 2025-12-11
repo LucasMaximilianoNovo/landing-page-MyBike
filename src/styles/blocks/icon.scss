@@ -18,6 +18,24 @@
 
   &--phone {
     background-image: url(../icons/icon-phone.svg);
+
+
+    &-hover {
+      display: none;
+      white-space: nowrap;
+      width: 100%;
+
+      @include on-desktop {
+        text-decoration: none;
+        color: vrs.$color-primary;
+        font-size: 12px;
+        font-weight: 700;
+      }
+    }
+
+    &:hover + .icon--phone-hover{
+      display: inline-block;
+    }
   }
 
   &--menu {
