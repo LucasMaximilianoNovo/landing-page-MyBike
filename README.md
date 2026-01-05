@@ -18,9 +18,14 @@ The main goal of this project was to create a professional landing page that ada
 🎨 Preview
 
 <div align="center">
+  Desktop
   <img src="./src/images/MyBike Desktop.gif" alt="Demo Desktop" width="100%">
-  <img src="./src/images/MyBike Tablet.gif" alt="Demo Tablet" width="100%">
-  <img src="./src/images/MyBike Mobile.gif" alt="Demo Mobile" width="100%">
+  </br>
+  Tablet
+  <img src="./src/images/MyBike Tablet.gif" alt="Demo Tablet" width="65%">
+  </br>
+  Mobile
+  <img src="./src/images/MyBike Mobile.gif" alt="Demo Mobile" width="40%">
 </div>
 
  - Check out the live version here: https://lucasmaximilianonovo.github.io/landing-page-MyBike/
@@ -32,7 +37,6 @@ The main goal of this project was to create a professional landing page that ada
 
 [x] Interactive UI: Smooth hover effects and navigation.
 
-[ ] Dark Mode: (Planned for future updates).
 
 🚀 Getting Started
 To run this project locally, follow these steps:
@@ -49,6 +53,4 @@ Open the project: Simply open the index.html file in your favorite browser or us
 👤 Author
 Developed by Lucas Maximiliano.
 
-LinkedIn: Your LinkedIn Profile
-
-Portfolio: Your Portfolio Website
+LinkedIn: https://www.linkedin.com/in/lucasmaximilianonovo/
