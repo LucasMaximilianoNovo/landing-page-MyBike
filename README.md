@@ -17,16 +17,15 @@ The main goal of this project was to create a professional landing page that ada
 
 🎨 Preview
 
-<div align="center">
-  Desktop
-  <img src="./src/images/MyBike Desktop.gif" alt="Demo Desktop" width="100%">
-  </br>
-  Tablet
-  <img src="./src/images/MyBike Tablet.gif" alt="Demo Tablet" width="65%">
-  </br>
-  Mobile
-  <img src="./src/images/MyBike Mobile.gif" alt="Demo Mobile" width="40%">
-</div>
+![Desktop Demo](./src/images/MyBike-Desktop.gif)
+
+---
+
+![Tablet Demo](./src/images/MyBike-Tablet.gif)
+
+---
+
+![Mobile Demo](./src/images/MyBike-Mobile.gif)
 
  - Check out the live version here: https://lucasmaximilianonovo.github.io/landing-page-MyBike/
 
